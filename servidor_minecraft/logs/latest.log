@@ -1021,3 +1021,25 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:38:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> ya mañana rescato todo
 [04:38:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> voy a tomar agua
 [04:41:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> recupere todo
+[04:45:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> fuaaaa
+[04:45:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> bien hecho
+[04:45:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> manito yo toy hasta la webas de sueño xd
+[04:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> ya mañana continuanos de paso que el otro logre arreglar su problema
+[04:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> oka
+[04:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CAMIL31XD> dale
+[04:46:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CAMIL31XD lost connection: Disconnected
+[04:46:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CAMIL31XD left the game
+[04:47:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [It Comes Back?]
+[04:50:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 is bleeding...
+[04:50:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 lost connection: Disconnected
+[04:50:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 left the game
+[04:50:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 was slain by Vindicator blue
+[04:51:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[04:51:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:51:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:51:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:51:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[04:51:05] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:51:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:51:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:51:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
