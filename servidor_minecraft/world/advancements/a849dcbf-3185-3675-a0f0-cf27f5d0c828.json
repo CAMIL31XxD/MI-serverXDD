@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-28 16:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-03-28 03:51:53 +0000"
@@ -373,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-03-28 16:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-03-28 03:58:08 +0000"
@@ -406,6 +418,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2025-03-28 04:03:38 +0000",
+      "frozen_river": "2025-03-28 16:34:56 +0000",
       "forest": "2025-03-28 03:56:52 +0000",
       "forest_hills": "2025-03-28 04:11:51 +0000",
       "plains": "2025-03-28 03:48:55 +0000",
