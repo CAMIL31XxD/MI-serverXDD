@@ -794,3 +794,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [16:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CAMIL31XD joined the game
 [16:10:29] [Server thread/INFO] [Waila]: Player EntityPlayerMP['CAMIL31XD'/292, l='world', x=255.30, y=61.00, z=259.46] connected. Sending ping
 [16:10:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CAMIL31XD: Set game difficulty to Peaceful]
+[16:20:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CAMIL31XD lost connection: Disconnected
+[16:20:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CAMIL31XD left the game
+[16:20:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:20:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:20:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:20:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:20:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:20:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
